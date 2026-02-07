@@ -1,7 +1,12 @@
 fastapi
 uvicorn[standard]
+gunicorn
 pydantic
+
 numpy
 scipy
 scikit-learn
 pyteda
+
+psycopg[binary]
+psycopg-pool
