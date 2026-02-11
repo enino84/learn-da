@@ -1,5 +1,9 @@
 # LEARN-DA — PyTEDA Web Backend (Lorenz-96 + Streaming + Postgres)
 
+<p align="center">
+  <img src="static/aml-cs.png" width="800"/>
+</p>
+
 A FastAPI backend + lightweight frontend for running **data assimilation benchmarks** on **Lorenz-96**, comparing multiple DA methods (EnKF / ETKF / LETKF / etc.), streaming progress in real time via **Server-Sent Events (SSE)**, and persisting runs/results in **PostgreSQL**.
 
 ---
