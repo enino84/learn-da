@@ -1,7 +1,3 @@
-Below is the **complete, production-ready User Manual** for the **PyTEDA — Data Assimilation Benchmarking Interface**, including architecture, theory, interface usage, workflow, and citation. This is suitable for GitHub README, SoftwareX companion repository, and built-in documentation.
-
----
-
 # PyTEDA — Data Assimilation Benchmarking Interface
 
 <p align="center">
